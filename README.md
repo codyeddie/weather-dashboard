@@ -16,7 +16,7 @@ A web application that records tasks for the current day based on a normal work 
 * CSS
 * JavaScript
 * jQuery
-* Open Weather Map API: https://openweathermap.org/api
+* <a href="https://openweathermap.org/api">Open Weather Map API</a>
 
 ## CONTRIBUTIONS
 I utilized my tutor and referenced previous module work and lessons to complete this assignment. 
