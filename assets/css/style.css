@@ -1,0 +1,13 @@
+/* BULMA */
+
+.UV-favorable:hover {
+    background-color: rgb(135, 185, 60)
+}
+
+.UV-moderate:hover {
+    background-color: rgb(225, 210, 45)
+}
+
+.UV-severe:hover {
+    background-color: rgb(195, 55, 40)
+}

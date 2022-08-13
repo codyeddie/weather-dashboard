@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather Dashboard</title>
+    
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css">
+    <link rel="stylesheet" href="./assets/css/style.css">
+    
+</head>
+<body>
+   <section class="hero">
+       <div class="hero-body has-background-info-dark">
+            <div class="container">
+                <h1 class="is-size-1 has-text-white has-text-centered">
+                    Weather Dashboard
+                </h1>
+            </div>
+       </div>
+   </section>
+    <section class="section">
+         <div class="container has-background-info-light has-text-centered">
+              <div>
+                <div>
+                    <div id="search-form">
+                        <p class="title">Find Your City</p>
+                        <div class="field">
+                            <input id="input-city" class="input is-info" type="text" placeholder="Search for a city">
+                        </div>
+                        <div class="control">
+                            <button id="search-btn" class="button is-dark">Search</button>
+                        </div>
+                    </div>
+                    <div>
+                        <p class="title my-4">Saved Cities</p>
+                        <ul id="savedCities">
+                            
+                        </ul>
+                        
+                    </div>
+                </div>
+                <div class="card" id="forecast">
+                    
+                </div> 
+              </div>
+         </div>
+    </section>
+    <footer class="footer">
+        <div class="content has-text-centered">
+          <p>
+            Made by by <a href="https://github.com/codyeddie">Cody Eddie</a> &copy; 2022
+          </p>
+        </div>
+      </footer>
+      <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js"></script>
+      <script src="./assets/js/script.js"></script>
+</body>
+</html>
