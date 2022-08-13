@@ -4,8 +4,6 @@
 A web application that records tasks for the current day based on a normal work day schedule. Tasks change colors based on current time.
 
 ## Table of Contents
-
-* [Installation](#installation)
 * [Technologies](#technologies)
 * [Contribution](#contribution)
 * [Deployed Application](#live-link)
