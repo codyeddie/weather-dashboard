@@ -1,7 +1,7 @@
 # Weather Dashboard
 
 ## Purpose 
-A web application that records tasks for the current day based on a normal work day schedule. Tasks change colors based on current time.
+This web applications uses the <a href="https://openweathermap.org/api">Open Weather Map API</a> to allow user to search for a city and see a 5 day weather forecast for that city. Searched cities will be saved to local storage so user can use easily get a forecast for that city at a later time if needed. 
 
 ## Table of Contents
 * [Technologies](#technologies)
