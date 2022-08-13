@@ -5,8 +5,9 @@ A web application that records tasks for the current day based on a normal work 
 
 ## Table of Contents
 * [Technologies](#technologies)
-* [Contribution](#contribution)
+* [Resources](#resources)
 * [Deployed Application](#live-link)
+* [Contribution](#contributions)
 
 
 ## Technologies
@@ -17,16 +18,14 @@ A web application that records tasks for the current day based on a normal work 
 * jQuery
 * <a href="https://openweathermap.org/api">Open Weather Map API</a>
 
-## CONTRIBUTIONS
+## Resources
 I utilized my tutor and referenced previous module work and lessons to complete this assignment. 
 
-## Link
+# Link
 
 <a href="https://codyeddie.github.io/weather-dashboard/">Weather-Dashboard</a>
 
 ![Screenshot](./assets/imgs/screenshot.png)
-
-
 
 # Contributions
 Made by Cody Eddie 
