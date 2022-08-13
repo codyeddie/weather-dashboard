@@ -28,4 +28,4 @@ I utilized my tutor and referenced previous module work and lessons to complete 
 ![Screenshot](./assets/imgs/screenshot.png)
 
 # Contributions
-Made by Cody Eddie 
+Made by <a href="https://github.com/codyeddie">Cody Eddie</a>
