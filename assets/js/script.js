@@ -62,7 +62,7 @@ var loadSavedCity = function () {
 
 // gets geo location of city based on user input 
 var getCity = function (city) {
-    var apiKey = "&appid=312bd3bcab3e029ce9a7fadd43d5e2e5";
+    var apiKey = "&appid=6767fa0aa7f788acf64ddd9330fbcec4"; 
     var cityName = city;
     $("#input-city").val("");
     removeForecast();
