@@ -14,6 +14,7 @@ A web application that records tasks for the current day based on a normal work 
 ## Technologies
 * HTML
 * CSS
+* <a href="https://bulma.io/documentation/">Bulma CSS Framework</a>
 * JavaScript
 * jQuery
 * <a href="https://openweathermap.org/api">Open Weather Map API</a>
